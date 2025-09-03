@@ -33,8 +33,8 @@ src/
 
 - [NestJS](https://nestjs.com/) – Framework  
 - [TypeScript](https://www.typescriptlang.org/) – Language  
-- [Redis](https://redis.io/) – Cache / Pub-Sub  
-- [Mongoose](https://mongoosejs.com/) – MongoDB ODM  
+- [Redis](https://redis.io/) – Cache 
+- [Mongoose](https://mongoosejs.com/) – MongoDB 
 
 ---
 Built with ❤️ using NestJS, Redis & TypeScript
