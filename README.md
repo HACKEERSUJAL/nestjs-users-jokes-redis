@@ -22,7 +22,7 @@ src/
 ## ⚡ Features
 
 - **NestJS Modular Architecture**  
-- **Redis Integration** (caching / pub-sub ready)  
+- **Redis Integration** (caching)  
 - **User Management** (DTOs, Mongoose schema)  
 - **Jokes API** (example feature)  
 - **Centralized Response Utility** for consistent API responses  
