@@ -31,10 +31,10 @@ src/
 
 ## 🛠️ Tech Stack
 
-- [NestJS](https://nestjs.com/) – Framework  
-- [TypeScript](https://www.typescriptlang.org/) – Language  
-- [Redis](https://redis.io/) – Cache 
-- [Mongoose](https://mongoosejs.com/) – MongoDB 
+[![NestJS](https://img.shields.io/badge/NestJS-Backend-red?logo=nestjs)](https://nestjs.com/)
+[![Redis](https://img.shields.io/badge/Redis-Enabled-green?logo=redis)](https://redis.io/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-Mongoose-blue?logo=mongodb)](https://www.mongodb.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-Strict-blue?logo=typescript)](https://www.typescriptlang.org/)
 
 ---
 Built with ❤️ using NestJS, Redis & TypeScript
